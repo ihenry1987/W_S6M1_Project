@@ -38,7 +38,7 @@ This project includes a `frontend/components` folder containing several React co
   - Watch the design file showing the finished component, and think about how much state is needed.
   - Create the necessary slices of component state using the state hook.
   - Fix the JSX so it displays information derived from state (instead of hard-coded data).
-  - Fix the event handlers so they allow the user to update state by interacting with the page.
+  - Fix the event handlers so they allow the use r to update state by interacting with the page.
 
 ## Submission Format
 
